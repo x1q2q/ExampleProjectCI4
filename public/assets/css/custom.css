@@ -1,0 +1,31 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.sidebar-brand a{
+    font-size: 1.6em!important;
+    text-align: left!important;
+}
+.sidebar-brand{
+    padding-top:10px!important;
+    height:55px !important;
+    line-height: 55px !important;
+}
+textarea.form-control{
+    height: auto!important;
+}
+#notifications {
+    cursor: pointer;
+    position: fixed;
+    right: 20px;
+    z-index: 9999;
+    bottom: 0px;
+    margin-bottom: 22px;
+    margin-right: 15px;
+    max-width: 300px;   
+}
